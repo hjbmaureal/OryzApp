@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "oryzapp.000webhostapp",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "oryzapp.000webhostapp",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/img/logo.png",
+      "type": "image/png",
+      "sizes": "1440x1377"
+    }
+  ],
+  "shortcuts": []
+}
